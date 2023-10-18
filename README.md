@@ -1,5 +1,4 @@
-# testicek2
-bing chilling <br>
+# bing chilling
 Zǎo shang hǎo zhōng guó!<br>
 Xiàn zài wǒ yǒu BING CHILLING<br>
 Wǒ hěn xǐ huān BING CHILLING<br>
