@@ -1,24 +1,5 @@
-# bing chilling
-Zǎo shang hǎo zhōng guó!<br>
-Xiàn zài wǒ yǒu BING CHILLING<br>
-Wǒ hěn xǐ huān BING CHILLING<br>
-Dàn shì "sù dù yǔ jī qíng jiǔ" bǐ BING CHILLING<br>
-"Sù dù yǔ jī qíng, sù dù yǔ jī qíng jiǔ"<br>
-Wǒ zuì xǐ huān<br>
-Suǒ yǐ xiàn zài shì yīn yuè shí jiān<br>
-Zhǔn bèi<br>
-Yī, èr, sān<br><br>
-fdssfdfsdfdssfdfsd
-Liǎng gè lǐ bài yǐ hòu<br>
-"Sù dù yǔ jī qíng jiǔ"<br>
-Liǎng gè lǐ bài yǐ hòu<br>
-"Sù dù yǔ jī qíng jiǔ"<br>
-Liǎng gè lǐ bài yǐ hòu<br>
-"Sù dù yǔ jī qíng jiǔ"<br><br>
+Jsem vášnivým nadšencem technologií, a 3D tiskárny jsou pro mě jen jedním z mnoha fascinujících odvětví. Věnovat se práci s počítači, a to včetně programování, je pro mě neodmyslitelnou součástí mého života. V oblasti mikropočítačů mě zaujímají zejména Raspberry Pi a Arduino. S jejich pomocí lze vytvářet úžasné projekty a automatizovat různé procesy.
 
-Bù yào wàng jì, bù yào cuò guò<br>
-Jì dé qù diàn yǐng yuàn kàn "sù dù yǔ jī qíng jiǔ"<br>
-Yīn wéi fēi cháng hǎo diàn yǐng<br>
-Dòng zuò fēi cháng hǎo<br>
-Chà bù duō yī yàng BING CHILLING<br>
-Zài jiàn <br>
+Programování je pro mě způsobem, jak rozkoukat technologické puzzle. Znám několik programovacích jazyků a využívám je k řešení různých úkolů. Webové vývojářství mě také láká, a s radostí se pouštím do tvorby webových stránek. Je něco uspokojivého na tom, jak můžete své myšlenky a nápady přenášet do digitálního světa a zpřístupňovat je ostatním.
+
+Technologie neustále evoluuje, a já se těším, kam nás budoucnost zavede. Jak vidíte vy technologický vývoj a kam směřuje podle vás? Rád bych se dozvěděl více o vašich zájmech a názorech v této oblasti.
